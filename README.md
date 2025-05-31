@@ -12,7 +12,6 @@ releasesにあるUnityAssetをダウンロードし、目的のプロジェク�
 
 ## 各種使用物について
 アセットにはVroid Studioで作成したモデルが同梱されています。
-
 また、動作アニメーションは以下のような再配布可能なものを使用しています。
 - ユニティちゃん同梱アニメーション
 - Universal Animation Library（CC0 License）
