@@ -25,7 +25,7 @@ The following redistributable animations are used.
 
 ![imgUnityMark](https://github.com/user-attachments/assets/52d97a06-f442-4219-8856-617b31994320)
 
-# External software used
+# Software used
 - uLipSync: https://github.com/hecomi/uLipSync
 - UniVRM: https://github.com/vrm-c/UniVRM
 - Resonance Audio: https://resonance-audio.github.io/resonance-audio/
